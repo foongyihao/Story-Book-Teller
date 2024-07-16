@@ -57,7 +57,7 @@ def cover_ai(prompt, client):
 
 
 # streamlit stuff
-st.title("Story Generator")
+st.title("Story Book Teller")
 
 with st.form(' '):
   st.write('This is for user to key in information')
